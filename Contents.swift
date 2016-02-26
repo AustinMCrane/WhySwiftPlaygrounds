@@ -89,5 +89,3 @@ var back_to_playgrounds = Slide(title: "Playgrounds", body: "In big projects it 
 */
 
 var thanks = Slide(title: "Thank You!", body: "Follow Me on Twitter @austinmcrane\n\n Check out this code on my website austinmcrane.github.io", img_name: "me.jpg", time: 20)
-
-
